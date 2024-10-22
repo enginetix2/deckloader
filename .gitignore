@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# Ignore Streamlit cache files (if used)
+.streamlit/
+
+# Ignore environment configuration files
+.env
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.swp
