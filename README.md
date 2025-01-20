@@ -99,4 +99,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## Contact
 
-For questions or feedback, please contact [jdehart@avian.com].
+For questions or feedback, please contact [enginetix@gmail.com].
